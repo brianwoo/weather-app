@@ -16,3 +16,7 @@ One of the standout features of the Weather App is its precise weather forecasts
 
 ### Tablet view
 ![Tablet view](./tablet.png)
+
+## Privacy Policy
+We do not collect personal or usage data from our users.
+
