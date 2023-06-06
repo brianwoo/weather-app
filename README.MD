@@ -8,7 +8,7 @@ One of the standout features of the Weather App is its precise weather forecasts
 
 <br/>
 
-## Screenshot
+## Screenshots
 ### Mobile Phone
 ![Today view](./phone_today.png)
 ![Tomorrow view](./phone_tomorrow.png)
