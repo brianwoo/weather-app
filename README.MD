@@ -8,15 +8,41 @@ One of the standout features of the Weather App is its precise weather forecasts
 
 <br/>
 
-## Screenshots
-### Mobile view
-![Today view](./phone_today.png)
-![Tomorrow view](./phone_tomorrow.png)
-![7 Days view](./phone_7days.png)
-
-### Tablet view
+# Screenshots and Features
+## General view - Phone and Tablet
+![Phone today view](./phone_today.png) &nbsp; 
+![Phone tomorrow view](./phone_tomorrow.png) &nbsp; 
+![Phone 7 Days view](./phone_7days.png) 
+<br/>
 ![Tablet view](./tablet.png)
 
-## Privacy Policy
+<br/>
+
+## Celsius and Fahrenheit support
+![Phone Celsius](./phone_celsius.png) &nbsp; 
+![Phone Fahrenheit](./phone_fahrenheit.png) &nbsp; 
+<br/>
+
+![Tablet Celsius](./tablet_celsius.png)
+<br/>
+
+![Tablet Fahrenheit](./tablet_fahrenheit.png)
+
+<br/>
+
+## Weather alerts support
+![Phone alert view](./phone_alert_panel.png) &nbsp; 
+![Phone alert message](./phone_alert_msg.png) &nbsp; 
+<br/>
+
+![Tablet alert view](./tablet_alert_panel.png)
+<br/>
+
+![Tablet alert message](./tablet_alert_msg.png)
+
+
+<br/>
+
+# Privacy Policy
 We do not collect personal or usage data from our users.
 
